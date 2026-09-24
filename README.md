@@ -1,7 +1,16 @@
-# Zion MCP Security Checklist
+# MCP Security Checklist
 
-Interactive audit of Model Context Protocol deployments: tokens, transport, OAuth, tool permissions, supply chain, monitoring — 27 checks with a security posture score.
+Token scoping, transport security, OAuth setup and hardening for Model Context Protocol servers.
 
 **Live app:** https://ziontechgroup.com/zion-mcp-security/
 
-Part of the [Zion Tech Group](https://ziontechgroup.com) AI apps network. Companion repo: [zion-mcp-stack](https://github.com/Zion-support/zion-mcp-stack). Sibling apps: [MCP Finder](https://ziontechgroup.com/zion-mcp-finder/) · [Agent Stack Builder](https://ziontechgroup.com/zion-agent-stack-builder/) · [AI Postmortem](https://ziontechgroup.com/zion-ai-postmortem/)
+## Features
+- MCP server hardening checklist
+- Token scoping guidance
+- OAuth/transport security verification
+
+## Zion App Network
+Part of the [Zion App Network](https://ziontechgroup.com/apps/).
+Related: [MCP Stack](https://github.com/Zion-support/zion-mcp-stack) · [Prompt Shield](https://github.com/Zion-support/prompt-shield) · [Compliance Scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) · [Threat Intel](https://github.com/Zion-support/zion-ai-threat-intel)
+
+© 2026 Zion Tech Group
